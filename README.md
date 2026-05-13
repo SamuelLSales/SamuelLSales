@@ -3,7 +3,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Samuel Lima Sales, tenho 23 anos e sou natural de Belo Horizonte. Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Ciência de Dados na PUC MINAS, busco minha primeira oportunidade de estágio na área de tecnologia. Sou apaixonado por tecnologia e sempre motivado por novos desafios.
+Me chamo Samuel Lima Sales, tenho 23 anos e sou natural de Belo Horizonte. Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Ciência de Dados na PUC MINAS.
 
 
 ### 🤖 Linguagens e Tecnologias
